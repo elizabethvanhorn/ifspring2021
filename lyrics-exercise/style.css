@@ -1,0 +1,28 @@
+.index-h1 {text-align: center; font-family:'Lexend Mega', sans-serif; font-size: xx-large; color: gold}
+.index-h2 {text-align: center; font-family: 'Lexend Mega', sans-serif; font-size: medium; color: red; padding-bottom:10% }
+.iframe-container {
+position: relative;
+width:75%;
+padding-bottom: 11%;
+height: 0px;
+display:block;
+margin-left: auto;
+margin-right: auto;
+
+}
+.iframe-container iframe{
+    position: absolute;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+left: 0px;
+    right: 0px;
+    width: 75%;
+    height: 75%;
+}
+.lyrics{
+ text-align: center;
+    position: relative;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
