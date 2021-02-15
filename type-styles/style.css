@@ -1,0 +1,68 @@
+html{
+    background-color:darksalmon;
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(143, 14, 24);
+    display: block;
+    margin:10%;
+    font-size:20px;
+}
+h1{
+margin-top:0;
+margin-bottom:0em;
+text-transform: uppercase;
+color:rgb(255, 204, 197);
+font-size: 64px;
+}
+.subtitle{
+    margin-top:0;
+    margin-bottom:0;
+    font-size:20px;
+}
+section{
+    margin:3em;
+}
+.italic{
+    font-style: italic;
+}
+h2{
+    text-transform: uppercase;
+    color:crimson;
+    font-size:20px;
+    ;
+}
+h3{
+    text-indent: 5%;
+    font-size:20px;
+}
+.bold{
+    font-weight:bold;
+}
+p{
+    color:white;
+    text-indent:5%;
+}
+.space{
+    letter-spacing: .4em;
+}
+.upper{
+    text-transform: uppercase;
+}
+.lower{
+    text-transform:lowercase;
+}
+.overline{
+    text-decoration: overline;
+}
+.underline{
+    text-decoration: underline;
+
+}
+.line{
+    text-decoration:line-through
+}
+.capital{
+    text-transform: capitalize;
+}
+.spacer{
+    letter-spacing:-.05em
+}
