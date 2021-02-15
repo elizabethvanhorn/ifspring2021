@@ -1,0 +1,48 @@
+html{
+    margin:10%;
+}
+.index-h1 {text-align: center;
+    font-family: 'Rubik', sans-serif;
+    font-size: 60px;
+    color: gold;
+    margin-bottom:0;
+}
+.index-h2 {
+    text-align: center; 
+    font-family: 'Rubik', sans-serif; 
+    font-size: 36px; 
+    color: red; 
+    margin-bottom:10%; }
+.iframe-container {
+position: relative;
+width:75%;
+padding-bottom: 11%;
+height: 0px;
+display:block;
+margin-left: auto;
+margin-right: auto;
+
+}
+.iframe-container iframe{
+    position: absolute;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:0;
+left: 0px;
+    right: 0px;
+    width: 75%;
+    height: 75%;
+}
+.lyrics{
+ text-align: center;
+    position: relative;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+.chorus{
+    font-style: italic;
+    color: gold;
+    text-align:center;
+    font-family: 'Open Sans', sans-serif;
+}
