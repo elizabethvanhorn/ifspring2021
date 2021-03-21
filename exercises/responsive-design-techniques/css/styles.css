@@ -1,12 +1,9 @@
 body{
-    width:800px;
+    width:90%;
     margin:auto;
+    max-width:800px;
 }
-@media (max-width:800px){
-    body{
-        width:90%;
-    }
-}
+
 @media (min-width: 640px){
    html{ 
        background-color: #eaf6ff;
