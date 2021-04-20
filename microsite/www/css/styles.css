@@ -1,0 +1,232 @@
+html{
+    font-family: 'Nanum Gothic', sans-serif;
+}
+header{
+background-color: rgb(253, 252, 167);
+padding:24px;
+background-size:cover;
+margin:auto;
+}
+body{
+    margin:auto;
+}
+.safe-area{
+    width:960px;
+    margin:auto;
+}
+.history-link-open{
+    color:darkcyan;
+}
+h1{
+    font-family: 'UnifrakturMaguntia', cursive;
+    font-size:36px;
+    color:darkcyan;
+    font-weight:400;
+}
+.title{
+    font-family: 'UnifrakturMaguntia', cursive;
+    font-size:36px;
+    color:darkcyan;
+    text-decoration:none;
+    padding-top:15px;
+}
+.title, ul{
+    display:inline-block;
+}
+nav {
+	margin:0;
+	padding:0;
+}
+nav ul{
+   float:right;
+   border-top:0;
+}
+nav li {
+	margin:0;
+    display:inline-block;
+  
+}
+.nav-button:hover{
+    color:darkcyan;
+    transition:.3s;
+}
+nav li a{
+    text-decoration: none;
+    display:block;
+    padding: 8px 16px;
+    color:black;
+}
+.history-panel{
+    background-image: url(organ1.jpg);
+    padding:100px;
+    background-size:cover;
+    margin:auto;
+}
+.history-box{
+    background-color:white;
+    width:240px;
+    padding:50px;
+    text-align:center;
+    margin-left:50px;
+}
+.button-container.one a{
+    margin:auto;
+    padding:10px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    background-color:darkcyan;
+    width:150px;
+    margin-top:30px;
+    
+}
+.button-container.one a:hover{
+    background-color:rgb(176, 253, 240);
+    transition:.3s;
+    color:darkcyan;
+    padding:10px 30px 10px 30px;
+}
+.button-container.two a:hover{
+    background-color:white;
+    transition:.3s;
+    color:darkcyan;
+    padding:10px 30px 10px 30px;
+}
+.button-container.one{
+    margin-top:40px;
+}
+.button-container.two{
+    margin-top:40px;
+}
+.button-container.one a{
+    text-decoration:none;
+    color:white;
+    padding:10px 20px 10px 20px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    background-color:darkcyan;
+    width:150px;
+    margin:auto;
+    margin-top:100px;
+}
+.button-container.two a{
+    text-decoration:none;
+    color:white;
+    padding:10px 20px 10px 20px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    background-color:darkcyan;
+    width:150px;
+    margin:auto;
+    margin-top:30px;
+}
+.construction-panel{
+    background-color: rgb(176, 253, 240);
+    padding:160px;
+    background-size:cover;
+    margin:auto;
+    text-align:center;
+}
+.two{
+    margin-top:0;
+}
+.repetoire-panel{
+    background-color: white;
+    background-size:cover;
+    margin:auto;
+    display:flex;
+    flex:wrap;
+}
+.repetoire-box{
+    display:inline-block;
+    text-align:center;
+  margin:auto;
+}
+.keyboard{
+    width:630px;
+}
+footer{
+    background-color: rgb(253, 252, 167);
+    padding:24px;
+    background-size:cover;
+    margin:auto;
+}
+.repetoire-box{
+    display:inline-block;
+   width:260px;
+   padding:40px;
+}
+.panel{
+    margin:auto;
+    padding:50px 150px 50px 150px ;
+    background-color:rgb(176, 253, 240);
+}
+.text{
+    margin-bottom:15px;
+}
+.musicians{
+    width:40%;
+    float:right;
+    padding:0;
+    margin-left:20px;
+    margin-bottom:20px;
+}
+.meister{
+    float:left;
+    padding:0;
+    margin-right:20px;
+}
+.copyright{
+    padding-bottom:20px;
+    padding-top:20px;
+    font-size:14px;
+    margin-left:50px;
+}
+.bach{
+    float:left;
+    padding:0;
+    margin-right:20px;
+}
+.monasterio{
+    float:left;
+    padding:0;
+    margin-right:60px; 
+    width:50%;
+    display:block;
+}
+.panel.sources{
+    height:760px;
+}
+.pipes{
+    width:40%;
+    float:right;
+    padding:0;
+    margin-left:20px;
+}
+.key{
+    float:left;
+    padding:0;
+    margin-right:20px; 
+    width:50%;
+    display:block;
+    margin-bottom:20px;
+}
+.organ-keyboard{
+    width:40%;
+    float:right;
+    padding:0;
+    margin-left:20px;
+    margin-bottom:20px;
+}
+.electronic{
+    width:60%;
+    padding:40px;
+    display:block;
+   margin:auto;
+}
+.src{
+    text-decoration:none;
+    color:darkcyan;
+}
+.src:hover{
+    font-weight: bold;
+}
