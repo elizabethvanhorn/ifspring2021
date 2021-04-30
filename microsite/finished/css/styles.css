@@ -416,10 +416,10 @@ h2{
            }
            footer{
                text-align:center;
-               padding-left:0;
+          
            }
            .copyright{
-               padding-left: 0;
+               margin-left: 0;
            }
            .history-panel{
                padding-top:60px;
